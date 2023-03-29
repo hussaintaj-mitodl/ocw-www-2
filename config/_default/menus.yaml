@@ -1,0 +1,5 @@
+mainmenu:
+- identifier: e483a198-ac9b-4882-a1cc-633d4ab63256
+  name: page
+  url: /pages/page
+  weight: 10
